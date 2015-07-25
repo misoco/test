@@ -1,2 +1,6 @@
 # test
 てすとです。
+
+
+##メンバー
+*testmember
